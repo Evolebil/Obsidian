@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok">
+      <UniqueIdentifier>{13c39e6f-94b8-4714-b7b0-7106fc176556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DZ">
+      <UniqueIdentifier>{1a609c03-77bb-40e0-bdf7-5795b0c361de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\DZ\DZ2">
+      <UniqueIdentifier>{818a5f46-6e54-43f8-8b47-fab054c600c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Urok2">
+      <UniqueIdentifier>{85508c12-bf46-4fc9-98d3-0cabaa7860ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Urok3">
+      <UniqueIdentifier>{7e9168e9-cbab-4cec-8223-44519c307f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Swethc-case">
+      <UniqueIdentifier>{ff167c83-a89f-4c9a-8a80-15dc7f9dc8d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Cikle">
+      <UniqueIdentifier>{85bccd6d-b55c-4760-a6fb-563003172591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\For">
+      <UniqueIdentifier>{4f6c71eb-7f42-49c0-bf99-40b645944e32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Arr">
+      <UniqueIdentifier>{acef27a8-cb51-46b9-8436-5289f8bf024b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Func">
+      <UniqueIdentifier>{919718a5-3bf6-4f10-b0e9-35bc1583efe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\Func\Culc">
+      <UniqueIdentifier>{96419b9d-67a0-4fbe-88a1-15fdd1783dbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\ukaz">
+      <UniqueIdentifier>{d088ddcb-e3cb-4ff8-be64-b9ac50a0dbfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Urok\treug">
+      <UniqueIdentifier>{ee23a6ef-6a7d-4f87-bb12-bed5ad8a1a14}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Zadanie_1.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_2.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_3.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_4.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_5.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_6.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_7.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_8.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_9.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie_10.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="VSKUROK1.cpp">
+      <Filter>Исходные файлы\Urok</Filter>
+    </ClCompile>
+    <ClCompile Include="DZ1.cpp">
+      <Filter>Исходные файлы\DZ\DZ2</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы\Urok</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie1.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie2.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie3.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadnie4.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie5.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie6.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie7.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie8.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie9.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="zadanie10.cpp">
+      <Filter>Исходные файлы\Urok\Urok2</Filter>
+    </ClCompile>
+    <ClCompile Include="PRACTIKA1.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="Practika2.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if2.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if3.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if4.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if5.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if6.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sc1.cpp">
+      <Filter>Исходные файлы\Urok\Swethc-case</Filter>
+    </ClCompile>
+    <ClCompile Include="if7.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if8.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if9.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if10.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="if11.cpp">
+      <Filter>Исходные файлы\Urok\Urok3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sc2.cpp">
+      <Filter>Исходные файлы\Urok\Swethc-case</Filter>
+    </ClCompile>
+    <ClCompile Include="Sc3.cpp">
+      <Filter>Исходные файлы\Urok\Swethc-case</Filter>
+    </ClCompile>
+    <ClCompile Include="Sc4.cpp">
+      <Filter>Исходные файлы\Urok\Swethc-case</Filter>
+    </ClCompile>
+    <ClCompile Include="Cikl1.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cicl2.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cikl3.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cikl4.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cikl5.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="Cikl6.cpp">
+      <Filter>Исходные файлы\Urok\Cikle</Filter>
+    </ClCompile>
+    <ClCompile Include="For1.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="For2.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="For3.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="For4.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="For5.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="For6.cpp">
+      <Filter>Исходные файлы\Urok\For</Filter>
+    </ClCompile>
+    <ClCompile Include="A1.cpp">
+      <Filter>Исходные файлы\Urok\Arr</Filter>
+    </ClCompile>
+    <ClCompile Include="A2.cpp">
+      <Filter>Исходные файлы\Urok\Arr</Filter>
+    </ClCompile>
+    <ClCompile Include="A3.cpp">
+      <Filter>Исходные файлы\Urok\Arr</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1.cpp">
+      <Filter>Исходные файлы\Urok\Func</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2.cpp">
+      <Filter>Исходные файлы\Urok\Func\Culc</Filter>
+    </ClCompile>
+    <ClCompile Include="oper.cpp">
+      <Filter>Исходные файлы\Urok\Func\Culc</Filter>
+    </ClCompile>
+    <ClCompile Include="ucaz1.cpp">
+      <Filter>Исходные файлы\Urok\ukaz</Filter>
+    </ClCompile>
+    <ClCompile Include="ucaz2.cpp">
+      <Filter>Исходные файлы\Urok\ukaz</Filter>
+    </ClCompile>
+    <ClCompile Include="ucaz3.cpp">
+      <Filter>Исходные файлы\Urok\ukaz</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\Urok\treug</Filter>
+    </ClCompile>
+    <ClCompile Include="modul.cpp">
+      <Filter>Исходные файлы\Urok\treug</Filter>
+    </ClCompile>
+    <ClCompile Include="strocA.cpp">
+      <Filter>Исходные файлы\Urok\ukaz</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="raspr.h">
+      <Filter>Исходные файлы\Urok\Func\Culc</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Исходные файлы\Urok\treug</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
