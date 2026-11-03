@@ -2,3 +2,32 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+
+# Тяжёлое и бинарное не синхронизируем с GitHub (добавлено при раскладке учёбы 2026-11-01)
+**/build/
+**/Build/
+**/x64/
+**/.vs/
+**/output/
+**/.qtcreator/
+УЧЕБА/1С/Практика/Базы/
+# Отдельный репозиторий со своим GitHub (Evolebil/HexDump)
+УЧЕБА/Архитектура ЭВМ/Практика/HexDump/
+УЧЕБА/Конкурсы/Resources/
+*.zip
+*.rar
+*.7z
+*.iso
+*.mp4
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.dt
+*.cfl
+*.1CD
+*.djvu

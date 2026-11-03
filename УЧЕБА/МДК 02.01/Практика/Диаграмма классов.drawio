@@ -1,0 +1,118 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Страница-1" id="W80z320SFamx4VUrSLs9">
+    <mxGraphModel dx="679" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-4v8k3pbwosFetGVaIU-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Студент" vertex="1">
+          <mxGeometry height="248" width="180" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-2" parent="W-4v8k3pbwosFetGVaIU-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- фамилия: string&lt;br&gt;- имя: string&lt;br&gt;- отчество: string&lt;br&gt;- датаРождения: date&lt;br&gt;- номерБилета: string&lt;br&gt;- вуз: string&lt;br&gt;- телефон: string&lt;br&gt;- email: string&lt;br&gt;- являетсяПостоянным: bool" vertex="1">
+          <mxGeometry height="164" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-3" parent="W-4v8k3pbwosFetGVaIU-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="180" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-4" parent="W-4v8k3pbwosFetGVaIU-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ записатьсяНаСекцию()&lt;br&gt;+ предъявитьБилет()&lt;br&gt;+ внестиОплату()" vertex="1">
+          <mxGeometry height="50" width="180" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Секция" vertex="1">
+          <mxGeometry height="86" width="160" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-6" parent="W-4v8k3pbwosFetGVaIU-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- название: string&lt;br&gt;- описание: string&lt;br&gt;- типОплаты: string («платная» / «бесплатная»)&lt;br&gt;- стоимость: float&lt;br&gt;- максВместимость: int" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-7" parent="W-4v8k3pbwosFetGVaIU-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-8" parent="W-4v8k3pbwosFetGVaIU-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+получитьСписокСтудентов()&lt;br&gt;+ проверитьДоступность()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Зал" vertex="1">
+          <mxGeometry height="86" width="160" x="310" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-10" parent="W-4v8k3pbwosFetGVaIU-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- название: string&lt;br&gt;- адрес: string&lt;br&gt;- вместимость: int" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-11" parent="W-4v8k3pbwosFetGVaIU-9" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-12" parent="W-4v8k3pbwosFetGVaIU-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ проверитьЗанятость()&lt;br&gt;+ забронировать()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Занятие" vertex="1">
+          <mxGeometry height="86" width="160" x="190" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-14" parent="W-4v8k3pbwosFetGVaIU-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- дата: date&lt;br&gt;- времяНачала: time&lt;br&gt;- времяОкончания: time&lt;br&gt;- статус: string («запланировано» / «проведено» / «отменено»)" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-15" parent="W-4v8k3pbwosFetGVaIU-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-16" parent="W-4v8k3pbwosFetGVaIU-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ провести()&lt;br&gt;+ отменить()&lt;br&gt;+ перенести()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-17" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Запись" vertex="1">
+          <mxGeometry height="86" width="160" x="510" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-18" parent="W-4v8k3pbwosFetGVaIU-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- датаЗаписи: date&lt;br&gt;- статус: string («активна» / «отменена»)" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-19" parent="W-4v8k3pbwosFetGVaIU-17" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-20" parent="W-4v8k3pbwosFetGVaIU-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ подтвердить()&lt;br&gt;+ отменить()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-21" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Оплата" vertex="1">
+          <mxGeometry height="86" width="160" x="420" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-22" parent="W-4v8k3pbwosFetGVaIU-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- сумма: float&lt;br&gt;- суммаСоСкидкой: float&lt;br&gt;- дата: date&lt;br&gt;- источник: string («студент» / «вуз»)&lt;br&gt;- статус: string («проведена» / «отменена»)" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-23" parent="W-4v8k3pbwosFetGVaIU-21" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-24" parent="W-4v8k3pbwosFetGVaIU-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ провести()&lt;br&gt;+ отменить()&lt;br&gt;+ рассчитатьСкидку()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-25" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Тренер" vertex="1">
+          <mxGeometry height="86" width="160" x="610" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-26" parent="W-4v8k3pbwosFetGVaIU-25" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- фамилия: string&lt;br&gt;- имя: string&lt;br&gt;- отчество: string&lt;br&gt;- телефон: string&lt;br&gt;- email: string&lt;br&gt;- процентНадбавки: float" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-27" parent="W-4v8k3pbwosFetGVaIU-25" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-28" parent="W-4v8k3pbwosFetGVaIU-25" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ получитьРасписание()&lt;br&gt;+ провестиЗанятие()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-29" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Отчёт" vertex="1">
+          <mxGeometry height="86" width="160" x="930" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-30" parent="W-4v8k3pbwosFetGVaIU-29" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- тип: string&lt;br&gt;- датаФормирования: date&lt;br&gt;- период: string" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-31" parent="W-4v8k3pbwosFetGVaIU-29" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-32" parent="W-4v8k3pbwosFetGVaIU-29" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ сформировать()&lt;br&gt;+ распечатать()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-33" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Надбавка" vertex="1">
+          <mxGeometry height="86" width="160" x="840" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-34" parent="W-4v8k3pbwosFetGVaIU-33" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- id: int&lt;br&gt;- сумма: float&lt;br&gt;- дата: date&lt;br&gt;- процент: float" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-35" parent="W-4v8k3pbwosFetGVaIU-33" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="W-4v8k3pbwosFetGVaIU-36" parent="W-4v8k3pbwosFetGVaIU-33" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ рассчитать()&lt;br&gt;+ перечислить()" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
