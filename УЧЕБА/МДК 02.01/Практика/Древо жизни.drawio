@@ -1,0 +1,355 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Страница-1" id="pCQzboDHpC7AtKjUI9fa">
+    <mxGraphModel dx="3012" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Владислав Бобров&amp;nbsp;Витальевич" vertex="1">
+          <mxGeometry height="60" width="120" x="704" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Наталья Боброва Евгеньевна" vertex="1">
+          <mxGeometry height="60" width="120" x="584" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Виталий Бобров Олегович" vertex="1">
+          <mxGeometry height="60" width="120" x="824" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Егор Бобров Витальевич" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Денис бобров витальевич" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дмитрий Берило&amp;nbsp; Владиморович&lt;div&gt;1993-2021&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="1049" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Владимир Берило" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-22" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kE5kLeKn1-PBWQ2L5BeA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Олег Бобров" vertex="1">
+          <mxGeometry height="60" width="120" x="944" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Евгений Пименёв" vertex="1">
+          <mxGeometry height="60" width="120" x="704" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Раиса Пименова&lt;/div&gt;&lt;div&gt;&amp;nbsp;Викторовна&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-12" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-2" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="kE5kLeKn1-PBWQ2L5BeA-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="900" as="sourcePoint" />
+            <mxPoint x="580" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="1010" as="sourcePoint" />
+            <mxPoint x="900" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="770" y="1010" as="sourcePoint" />
+            <mxPoint x="770" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="1010" as="sourcePoint" />
+            <mxPoint x="580" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="kE5kLeKn1-PBWQ2L5BeA-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="770" y="1010" as="sourcePoint" />
+            <mxPoint x="770" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="899.83" y="1010" as="sourcePoint" />
+            <mxPoint x="899.83" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-18" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-7" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="940" as="sourcePoint" />
+            <mxPoint x="540" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="920" as="sourcePoint" />
+            <mxPoint x="370" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-20" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-10" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="810" as="sourcePoint" />
+            <mxPoint x="650" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="790" as="sourcePoint" />
+            <mxPoint x="650" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Гурьянова&amp;nbsp;&lt;/div&gt;&lt;div&gt;Александра Ивановна&lt;/div&gt;&lt;div&gt;1930-2009&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-10" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Виктор Гурьянов" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-25" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-23" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="650" as="sourcePoint" />
+            <mxPoint x="210" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кривая Мария Яковлевна&lt;div&gt;1878-1973&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кривой Иман Семёнович&lt;div&gt;?-1978&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-29" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-27" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="490" as="sourcePoint" />
+            <mxPoint x="70" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="460" as="sourcePoint" />
+            <mxPoint x="130" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Артёмова Иван Семёнович 1914" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Кривой&amp;nbsp;&lt;/div&gt;&lt;div&gt;Анатолий Иванович&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-560" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кривой(данные утерены)" vertex="1">
+          <mxGeometry height="60" width="120" x="-750" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кривой(данные утерены)" vertex="1">
+          <mxGeometry height="60" width="120" x="-930" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-870" y="560" as="sourcePoint" />
+            <mxPoint x="50" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-320" y="560" as="sourcePoint" />
+            <mxPoint x="-120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-500.24" y="560" as="sourcePoint" />
+            <mxPoint x="-500.24" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-690.24" y="560" as="sourcePoint" />
+            <mxPoint x="-690.24" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-870.24" y="560" as="sourcePoint" />
+            <mxPoint x="-870.24" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Артёмова&amp;nbsp;&lt;/div&gt;&lt;div&gt;Анна Ивановна&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-380" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-43" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-42" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-290" y="780" as="sourcePoint" />
+            <mxPoint x="-240" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пётр Артёмов Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сергей Артёмов Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-380" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Владимир Артёмов Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-560" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Любовь Артёмова Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-740" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Лидия Артёмова Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-930" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Иван Артёмов Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-1120" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Юрий Артёмов Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-1310" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Марина Артёмова Иванович" vertex="1">
+          <mxGeometry height="60" width="120" x="-1490" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-52" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1430" y="730" as="sourcePoint" />
+            <mxPoint x="-130" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-51" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1430" y="730" as="sourcePoint" />
+            <mxPoint x="-1450" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1250" y="730" as="sourcePoint" />
+            <mxPoint x="-1200" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-55" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060.33" y="730" as="sourcePoint" />
+            <mxPoint x="-1060.33" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-870.33" y="730" as="sourcePoint" />
+            <mxPoint x="-870.33" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-58" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-680.33" y="730" as="sourcePoint" />
+            <mxPoint x="-680.33" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-500.33" y="730" as="sourcePoint" />
+            <mxPoint x="-500.33" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-60" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-320" y="730" as="sourcePoint" />
+            <mxPoint x="-320" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-130" y="730" as="sourcePoint" />
+            <mxPoint x="-130" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-230" y="730" as="sourcePoint" />
+            <mxPoint x="-230" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="30" y="730" as="sourcePoint" />
+            <mxPoint x="520" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="519.62" y="730" as="sourcePoint" />
+            <mxPoint x="519.62" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Пахомова&amp;nbsp;&lt;/div&gt;&lt;div&gt;Ольга Викторовна&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Гурьянова&amp;nbsp;&lt;/div&gt;&lt;div&gt;Анатолий&lt;/div&gt;&lt;div&gt;Викторович&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Гурьянова&amp;nbsp;&lt;/div&gt;&lt;div&gt;Валентина&lt;/div&gt;&lt;div&gt;Викторовна&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-30" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-70" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="730" as="sourcePoint" />
+            <mxPoint x="350" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-67" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="179.68" y="730" as="sourcePoint" />
+            <mxPoint x="179.68" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-72" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="29.680000000000007" y="730" as="sourcePoint" />
+            <mxPoint x="29.680000000000007" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="730" as="sourcePoint" />
+            <mxPoint x="170" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Климанов Юрий Владиморович" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Мичурин Александр Евгеньевич&lt;div&gt;1986&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-77" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="850" as="sourcePoint" />
+            <mxPoint x="650" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-78" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-76" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="850" as="sourcePoint" />
+            <mxPoint x="9.819999999999993" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-79" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="199.82" y="850" as="sourcePoint" />
+            <mxPoint x="199.82" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Мичурин Максим Александрович" vertex="1">
+          <mxGeometry height="60" width="120" x="-170" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="-290" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-83" edge="1" parent="1" source="kE5kLeKn1-PBWQ2L5BeA-82" style="endArrow=none;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-76" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-150" y="980" as="sourcePoint" />
+            <mxPoint x="-100" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE5kLeKn1-PBWQ2L5BeA-84" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="kE5kLeKn1-PBWQ2L5BeA-81" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-110" y="920" as="sourcePoint" />
+            <mxPoint x="-40" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

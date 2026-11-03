@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Страница-1" id="a6x6GktIEGO59ZdDpQUf">
+    <mxGraphModel dx="763" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ryktznaiq1g1n6MYLea-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Клиент банкомата&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Банк&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Снятие наличных по кредитной карте&lt;/code&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="320" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Получение справки о состоянии счета&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Проверка ПИН-кода&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="220" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;Блокирование кредитной карточки&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-9" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_ryktznaiq1g1n6MYLea-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="290" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-10" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_ryktznaiq1g1n6MYLea-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="310" as="sourcePoint" />
+            <mxPoint x="210" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-11" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-3" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="_ryktznaiq1g1n6MYLea-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="385" as="sourcePoint" />
+            <mxPoint x="740" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-12" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-4" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="_ryktznaiq1g1n6MYLea-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="750" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-15" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-5" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=1;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="_ryktznaiq1g1n6MYLea-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-20" connectable="0" parent="_ryktznaiq1g1n6MYLea-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2949" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-16" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-5" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="_ryktznaiq1g1n6MYLea-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <mxPoint x="560" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-19" connectable="0" parent="_ryktznaiq1g1n6MYLea-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="«extend»" vertex="1">
+          <mxGeometry relative="1" x="-0.0315" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-17" edge="1" parent="1" source="_ryktznaiq1g1n6MYLea-5" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_ryktznaiq1g1n6MYLea-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ryktznaiq1g1n6MYLea-18" connectable="0" parent="_ryktznaiq1g1n6MYLea-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;code data-v-782faaad=&quot;&quot; data-v-849e0090=&quot;&quot; class=&quot;segment-code-inline&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0683" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
