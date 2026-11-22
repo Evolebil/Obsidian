@@ -1,10 +1,13 @@
 # Credits
 
 ## Графика
-| Что   | Автор                            | Ссылка                                                 | Лицензия | Где используется | Изменения |
-| ----- | -------------------------------- | ------------------------------------------------------ | -------- | ---------------- | --------- |
-| ДОМА1 | [Nicrom](https://nicrom.itch.io) | https://nicrom.itch.io/medieval-village-poly-pack      |          |                  |           |
-| ДОМА2 | [Nicrom](https://nicrom.itch.io) | https://nicrom.itch.io/medieval-village-poly-pack-demo |          |                  |           |
+| Что   | Автор                                                        | Ссылка                                                               | Лицензия                                                                   | Где используется | Изменения |
+| ----- | ------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- | --------- |
+| ДОМА1 | [Nicrom](https://nicrom.itch.io)                             | https://nicrom.itch.io/medieval-village-poly-pack                    |                                                                            |                  |           |
+| ДОМА2 | [Nicrom](https://nicrom.itch.io)                             | https://nicrom.itch.io/medieval-village-poly-pack-demo               |                                                                            |                  |           |
+| Трава | [Leonard Pabin](https://opengameart.org/users/leonard-pabin) | https://opengameart.org/content/whispers-of-avalon-grassland-tileset |                                                                            |                  |           |
+| UI    |                                                              | https://kenney.nl/assets/ui-pack-rpg-expansion                       | [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) |                  |           |
+|       |                                                              |                                                                      |                                                                            |                  |           |
 
 ## Музыка
 | Трек       | Автор      | Ссылка      | Лицензия  | Где играет | Изменения |
