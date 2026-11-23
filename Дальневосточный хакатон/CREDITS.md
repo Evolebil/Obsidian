@@ -1,28 +1,42 @@
-# Credits
+# Ночь над Албазином — титры
+
+Проект и игровой макет — Влад Бобров. Дальневосточный джем, ноябрь 2026.
 
 ## Графика
-| Что   | Автор                                                        | Ссылка                                                               | Лицензия                                                                   | Где используется | Изменения |
-| ----- | ------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- | --------- |
-| ДОМА1 | [Nicrom](https://nicrom.itch.io)                             | https://nicrom.itch.io/medieval-village-poly-pack                    |                                                                            |                  |           |
-| ДОМА2 | [Nicrom](https://nicrom.itch.io)                             | https://nicrom.itch.io/medieval-village-poly-pack-demo               |                                                                            |                  |           |
-| Трава | [Leonard Pabin](https://opengameart.org/users/leonard-pabin) | https://opengameart.org/content/whispers-of-avalon-grassland-tileset |                                                                            |                  |           |
-| UI    |                                                              | https://kenney.nl/assets/ui-pack-rpg-expansion                       | [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) |                  |           |
-|       |                                                              |                                                                      |                                                                            |                  |           |
+
+| Материал | Авторы и источник | Условия | Использование и изменения |
+|---|---|---|---|
+| Medieval Village — POLY Pack | [Nicrom](https://nicrom.itch.io/medieval-village-poly-pack) | Условия приобретённой версии. Текст лицензии в проекте отсутствует. | Деревянная архитектура, орторендер в Studio, уменьшение и палитра. |
+| Medieval Village Demo | [Nicrom](https://nicrom.itch.io/medieval-village-poly-pack-demo) | Страница демо не указывает отдельную лицензию. | Дополнительные исходники построек по авторскому реестру. |
+| Whispers of Avalon: Grassland Tileset | [Leonard Pabin](https://opengameart.org/content/whispers-of-avalon-grassland-tileset), Len; в исходных листах также указаны Crush и влияние Zyndikate | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | Трава, река, земля. Выделены тайлы, добавлены переходы троп. |
+| Герой и воевода | [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/). Полные списки авторов, исходников и лицензий слоёв включены в титры игры и файлы Hero.txt и Commander.txt в Assets/Resources/Albazin/Credits. | По каждому слою — см. списки из экспортов LPC. | Индивидуальные кадры объединены в полосы направлений. |
+| Жители, кузнец, караульный, образ пехоты | [Villagers LPC Sprite Pack — Sorthen](https://sorthen.itch.io/villagers-lpc-sprite-pack) и авторы LPC | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Производные листы этих персонажей распространяются по той же лицензии. | Выбраны циклы движения и удара. Для противника использован стилизованный стражник с цветовой модуляцией. |
+| Панель интерфейса | [Kenney — UI Pack RPG Expansion](https://kenney.nl/assets/ui-pack-rpg-expansion) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | Рамки HUD и окон, масштабирование и тонирование. |
 
 ## Музыка
-| Трек       | Автор      | Ссылка      | Лицензия  | Где играет | Изменения |
-| ---------- | ---------- | ----------- | --------- | ---------- | --------- |
-| «Название» | Ник автора | https://... | CC-BY 4.0 | меню       | обрезан   |
+
+| Трек | Автор и источник | Лицензия | Где играет | Изменения |
+|---|---|---|---|---|
+| Angevin | [Kevin MacLeod (incompetech.com)](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angevin.mp3) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Меню и день | Оригинальная запись, циклическое воспроизведение. |
+| Five Armies | [Kevin MacLeod (incompetech.com)](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100875) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Ночь и вылазка | Оригинальная запись, циклическое воспроизведение. |
 
 ## Звуки
-| Что | Автор | Ссылка | Лицензия | Где используется | Изменения |
-| --- | ----- | ------ | -------- | ---------------- | --------- |
-|     |       |        |          |                  |           |
+
+Источник всех эффектов — [RPG Sound Pack, artisticdude](https://opengameart.org/content/rpg-sound-pack), [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Использованы исходные WAV с новыми именами.
+
+| Файл источника | Событие в игре |
+|---|---|
+| battle/swing.wav | Взмах оружия |
+| inventory/metal-ringing.wav | Попадание по броне |
+| inventory/wood-small.wav | Удар по стене и ремонт |
+| inventory/coin.wav | Получение золота и покупки |
+| interface/interface2.wav | Открытие разговора |
+| battle/sword-unsheathe2.wav | Начало ночного дозора |
+| inventory/cloth.wav | Шорох одежды при ходьбе пешего героя |
 
 ## Шрифты
-| Что | Автор | Ссылка | Лицензия | Где используется | Изменения |
-| --- | ----- | ------ | -------- | ---------------- | --------- |
-|     |       |        |          |                  |           |
+
+Стандартный шрифт интерфейса Unity IMGUI, без отдельного шрифтового ассета.
 
 ## Исторические источники (только справочно)
 - Siege of Albazin — Wikipedia (en.wikipedia.org/wiki/Siege_of_Albazin) — даты, ход осад, командиры
