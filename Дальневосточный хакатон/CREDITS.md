@@ -15,9 +15,9 @@
 
 ## Музыка
 
-| Трек | Автор и источник | Лицензия | Где играет | Изменения |
-|---|---|---|---|---|
-| Angevin | [Kevin MacLeod (incompetech.com)](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angevin.mp3) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Меню и день | Оригинальная запись, циклическое воспроизведение. |
+| Трек        | Автор и источник                                                                                           | Лицензия                                                  | Где играет     | Изменения                                         |
+| ----------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------------- | ------------------------------------------------- |
+| Angevin     | [Kevin MacLeod (incompetech.com)](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angevin.mp3)  | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Меню и день    | Оригинальная запись, циклическое воспроизведение. |
 | Five Armies | [Kevin MacLeod (incompetech.com)](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100875) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Ночь и вылазка | Оригинальная запись, циклическое воспроизведение. |
 
 ## Звуки
