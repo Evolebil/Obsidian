@@ -10,8 +10,8 @@
 | Medieval Village Demo | [Nicrom](https://nicrom.itch.io/medieval-village-poly-pack-demo) | Страница демо не указывает отдельную лицензию. | Дополнительные исходники построек по авторскому реестру. |
 | Whispers of Avalon: Grassland Tileset | [Leonard Pabin](https://opengameart.org/content/whispers-of-avalon-grassland-tileset), Len; в исходных листах также указаны Crush и влияние Zyndikate | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | Трава, река, земля. Выделены тайлы, добавлены переходы троп. |
 | Герой и воевода | [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/). Полные списки авторов, исходников и лицензий слоёв включены в титры игры и файлы Hero.txt и Commander.txt в Assets/Resources/Albazin/Credits. | По каждому слою — см. списки из экспортов LPC. | Индивидуальные кадры объединены в полосы направлений. |
-| Жители, кузнец, караульный, образ пехоты | [Villagers LPC Sprite Pack — Sorthen](https://sorthen.itch.io/villagers-lpc-sprite-pack) и авторы LPC | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Производные листы этих персонажей распространяются по той же лицензии. | Выбраны циклы движения и удара. Для противника использован стилизованный стражник с цветовой модуляцией. |
-| Панель интерфейса | [Kenney — UI Pack RPG Expansion](https://kenney.nl/assets/ui-pack-rpg-expansion) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | Рамки HUD и окон, масштабирование и тонирование. |
+| Жители, кузнец, бронник, караульный, образ пехоты | [Villagers LPC Sprite Pack — Sorthen](https://sorthen.itch.io/villagers-lpc-sprite-pack) и авторы LPC | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Производные листы этих персонажей распространяются по той же лицензии. | Выбраны циклы движения и удара. Для противника использован стилизованный стражник с цветовой модуляцией. |
+| Панель интерфейса | [Kenney — UI Pack RPG Expansion](https://kenney.nl/assets/ui-pack-rpg-expansion) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | Кнопки меню, окна, рамки HUD и полосы здоровья. Масштабирование и тонирование. |
 
 ## Музыка
 
@@ -36,7 +36,7 @@
 
 ## Шрифты
 
-Стандартный шрифт интерфейса Unity IMGUI, без отдельного шрифтового ассета.
+Для интерфейса использованы обычное и полужирное начертания Liberation Sans. Шрифт включён в сборку по лицензии SIL Open Font License 1.1. [Проект Liberation Fonts](https://github.com/liberationfonts/liberation-fonts).
 
 ## Исторические источники (только справочно)
 - Siege of Albazin — Wikipedia (en.wikipedia.org/wiki/Siege_of_Albazin) — даты, ход осад, командиры
